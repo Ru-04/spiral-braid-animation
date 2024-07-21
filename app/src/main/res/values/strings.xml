@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_home">Waves</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="line">______________________</string>
+    <string name="line1">_____________________</string>
+    <string name="finalLine">_______________________________________</string>
+</resources>
