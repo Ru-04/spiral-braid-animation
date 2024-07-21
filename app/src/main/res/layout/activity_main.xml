@@ -43,7 +43,7 @@
             android:id="@+id/waveView2"
             android:layout_width="match_parent"
             android:layout_height="15dp"
-            android:layout_marginTop="560dp" />
+            android:layout_marginTop="600dp" />
 
         <TextView
             android:id="@+id/spiral"
@@ -73,8 +73,7 @@
             android:id="@+id/waveView"
             android:layout_width="match_parent"
             android:layout_height="15dp"
-            tools:layout_editor_absoluteX="-3dp"
-            tools:layout_editor_absoluteY="2dp" />
+            />
 
     </RelativeLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
