@@ -53,8 +53,6 @@
             android:text="spiral Braid"
             android:textStyle="italic"
             android:shadowColor="@color/black"
-            android:shadowDx="50"
-            android:shadowDy="50"
             android:textColor="#ffe066"
             android:textSize="50dp" />
 
